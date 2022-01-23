@@ -1,15 +1,14 @@
-import './App.css';
+// import './App.css';
 import 'bootstrap/dist/css/bootstrap.css'
-import R043_ReactstrapFade from "./components/R043_ReactstrapFade";
+import R063_CallbackFunc from "./components/R063_CallbackFunc";
 
 function App() {
   return (
     <>
       <h1>Start React 200!</h1>
-      <p>CSS 적용</p>
-      <R043_ReactstrapFade />
+      <R063_CallbackFunc />
     </>
   );
 }
 
-export default App;
+export default App
