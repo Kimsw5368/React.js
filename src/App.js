@@ -1,12 +1,12 @@
 // import './App.css';
 import 'bootstrap/dist/css/bootstrap.css'
-import R063_CallbackFunc from "./components/R063_CallbackFunc";
+import R075_ReactHoc from "./components/R075_ReactHoc";
 
 function App() {
   return (
     <>
       <h1>Start React 200!</h1>
-      <R063_CallbackFunc />
+      <R075_ReactHoc />
     </>
   );
 }
