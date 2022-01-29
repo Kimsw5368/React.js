@@ -5,6 +5,10 @@ const withComponent = (InComponent, InComponentName) => {
     useEffect(() => {
       console.log('useEffect')
     }, [])
+    props = {
+      ...props,
+      InComponentName
+    }
     return <InComponent {...props} />
   }
   return OutComponent
