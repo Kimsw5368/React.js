@@ -1,6 +1,6 @@
 // import './App.css';
 import 'bootstrap/dist/css/bootstrap.css'
-import R075_ReactHoc from "./components/R075_ReactHoc";
+import R075_ReactHoc from "./react200/components/R075_ReactHoc";
 
 function App() {
   return (
