@@ -1,14 +1,13 @@
-// import './App.css';
+import './App.css';
 import 'bootstrap/dist/css/bootstrap.css'
-import R075_ReactHoc from "./react200/components/R075_ReactHoc";
+import ReduxStart from "./React-Redux/ReduxStart";
 
 function App() {
   return (
     <>
-      <h1>Start React 200!</h1>
-      <R075_ReactHoc />
+      <ReduxStart />
     </>
-  );
+  )
 }
 
 export default App
