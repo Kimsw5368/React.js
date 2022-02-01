@@ -15,3 +15,4 @@
 ---------------
 
 # Redux and React Redux
+- React-redux basics.
