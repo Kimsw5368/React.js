@@ -17,5 +17,3 @@
 # Redux and React Redux
 - React-redux basics.
 ---------------
-
-# React router
