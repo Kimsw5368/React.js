@@ -1,7 +1,6 @@
 # React200 
 
 - function component
-- useState, useEffact
 - map()
 - reactstrap
 - fetch get, featch oist
@@ -11,6 +10,10 @@
 - click, change, mouseMovem, submit
 - Ref
 - React Hoc(higher-order component) **https://satisfactoryplace.tistory.com/163**
+---------------
+
+# React useEffect, useState
+- useEffect, useState basic
 ---------------
 
 # Redux and React Redux
